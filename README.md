@@ -1,1 +1,31 @@
 # Profile
+<!DOCTYPE html>
+<html>
+
+<head><title>Donald Thrump</title></head>
+<body>
+<h1>Donald Trump and Me</h1>
+
+<a href="https://www.youtube.com/watch?v=GL0M4HtLl40"><img src="http://www.everywhereist.com/wp-content/uploads/2015/08/Trump-Kissing.jpg"HEIGHT="100" WIDTH="100" BORDER="0"></a><br>
+<a href="https://instagram.com/ralphymanzana/">Adventure Napitalist</a><br>
+<a href="https://www.facebook.com/ralphy.manzana">Sadbook</a><br>
+
+<a href="https://github.com/jay444">github profile</a>
+
+
+
+<p>I was a coffee sommelier in New York City for 4 years, I write short fiction and aspire to write a graphic novel someday.</p>
+<h5>Not a coffee snob though</h5>
+<a href="http://ideas.time.com/2012/09/19/the-perils-of-coffee-snobbery/"><img src="https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xfa1/v/t1.0-9/215599_10100250328741000_3247940_n.jpg?oh=aa141dbe060f20f14ef7f240a636c46a&oe=568380CA"HEIGHT="400" WIDTH="400" BORDER="0"></a>
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
